@@ -193,7 +193,7 @@
 				TargetAttributes = {
 					16F8783E1D27A23A00A6C219 = {
 						CreatedOnToolsVersion = 7.3.1;
-						DevelopmentTeam = 9HG6B3XMUA;
+						DevelopmentTeam = 6T92523974;
 					};
 					16F878521D27A23A00A6C219 = {
 						CreatedOnToolsVersion = 7.3.1;
@@ -401,7 +401,7 @@
 		16F878681D27A23A00A6C219 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = tipCalculator/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = john.tipCalculator;
@@ -412,7 +412,7 @@
 		16F878691D27A23A00A6C219 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = tipCalculator/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = john.tipCalculator;
